@@ -24,7 +24,7 @@ Building scalable systems, Roblox experiences, automation tools and modern web a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,nextjs,nodejs,js,git,vscode"/> 
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,typescript,nodejs,js,git,vscode"/> 
 
 </div>
 
